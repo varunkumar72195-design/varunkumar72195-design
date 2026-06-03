@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Varun Kumar
 
-<!--
-**varunkumar72195-design/varunkumar72195-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Student at Newton's Institute of Engineering
 
-Here are some ideas to get you started:
+💻 Python Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+🐍 Python  
+⚡ FastAPI  
+🌐 HTML5  
+🎨 CSS3  
+📜 JavaScript  
+⚛️ React  
+🗄️ SQL  
+🍃 MongoDB  
+🟢 Node.js  
+🚀 Express.js  
+
+## 🌱 Currently Learning
+
+- Python Full Stack Development
+- FastAPI
+- React
+- SQL
+- Data Structures & Algorithms
+
+## 🎯 Goals
+
+- Build real-world full-stack applications
+- Become a strong backend developer
+- Contribute to open source
+
+## 📫 Connect With Me
+
+🔗 GitHub: github.com/varunkumar72195-design
