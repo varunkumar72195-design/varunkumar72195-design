@@ -1,86 +1,228 @@
-# 👋 Hey, I'm Varun Kumar!
+# 👋 Hi, I'm Varun Kumar
 
-### 🚀 Python Full Stack Developer | Final Year B.Tech Student
+<div align="center">
 
-💡 Passionate about building real-world applications, developing backend systems, and turning ideas into practical solutions.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Python+Full+Stack+Developer;Backend+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Final Year B.Tech CSE Student at Newton's Institute of Engineering.
-- 🐍 Focused on **Python Full Stack Development**.
-- ⚡ Building backend applications using **FastAPI**.
-- ⚛️ Exploring modern frontend development with **React**.
-- 🗄️ Working with databases like **PostgreSQL and MongoDB**.
-- 🌱 Continuously learning and improving my development skills.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-**Programming Language**
-  
-🐍 Python | 📜 JavaScript
+🎓 Final Year B.Tech Student at **Newton's Institute of Engineering**
 
-**Frontend Development**
+🐍 **Python Developer** passionate about backend development
 
-🌐 HTML5 | 🎨 CSS3 | ⚛️ React
+💻 Aspiring **Python Full Stack Developer**
 
-**Backend Development**
+⚙️ Building applications using **Python, FastAPI & PostgreSQL**
 
-⚡ FastAPI | 🔗 REST APIs
+🎨 Developing frontend interfaces using **HTML, CSS, JavaScript & React**
 
-**Database**
+🌱 Currently Learning **DSA, Advanced Python, FastAPI & React**
 
-🐘 PostgreSQL | 🍃 MongoDB | 🗄️ SQL
+🚀 Passionate about building real-world applications and solving problems
 
-**Tools & Platforms**
+🏆 NPTEL Human Computer Interaction – Gold Score
 
-🐙 Git | GitHub | 💻 VS Code | pgAdmin 4
+☁️ Azure DevOps Certified
 
----
+👨‍💻 Leading my college technical club **NXGen Explorers**
 
-## 📚 Currently Learning
+🎯 Goal: Become a Software Engineer at a reputed product-based company
 
-- Python Advanced Concepts
-- FastAPI & Backend Development
-- React.js
-- PostgreSQL & Database Management
-- Data Structures & Algorithms
-- Full Stack Application Development
+⚡ Fun Fact: *I love turning ideas into code.*
 
 ---
 
-## 🚀 What I'm Working Towards
+# 🌐 Connect With Me
 
-- Building real-world Python Full Stack applications.
-- Developing scalable backend systems and REST APIs.
-- Improving problem-solving and DSA skills.
-- Contributing to open-source projects.
-- Becoming a skilled Software Developer.
+<div align="left">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://varuntechpor.netlify.app/)
 
-## 📊 GitHub Overview
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-kumar-pothula-412343340/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunkumar72195-design&show_icons=true&theme=tokyonight)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/varunkumar72195)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar72195-design&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 💻 Tech Stack
 
-- 💻 **GitHub:** [Varun Kumar](https://github.com/varunkumar72195-design)
-- 📧 **Email:** [varunkumar72195@gmail.com](mailto:varunkumar72195@gmail.com)
-- 🌐 **Portfolio:** [Visit My Portfolio](https://varuntechpor.netlify.app/)
+### 🎨 Frontend Development
+
+<div align="left">
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+
+</div>
+
+### 🐍 Backend Development
+
+<div align="left">
+
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+</div>
+
+### 🗄️ Database
+
+<div align="left">
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+</div>
+
+### 🛠️ Tools & Technologies
+
+<div align="left">
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+</div>
 
 ---
 
-### 💭 Developer Mindset
+# 🚀 Featured Projects
 
-> "Learning every day, building every day, and growing into a better developer."
+### 💰 1. MoneyPurse – Personal Finance Management
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+A personal finance management application designed to help users manage their money and track their financial activities.
 
+**Key Features:**
+- User authentication with OTP verification
+- Income and expense management
+- Financial transaction tracking
+- Database integration
+- Personal finance dashboard
+
+**Technologies:** React, Python, FastAPI, PostgreSQL
+
+---
+
+### 📝 2. ExamForge – Online Examination Platform
+
+An online examination platform designed to help students practice tests and evaluate their performance.
+
+**Key Features:**
+- Student, Trainer and Admin roles
+- Online mock examinations
+- Timer-based assessments
+- Automatic evaluation and scoring
+- Question and exam management
+- Results and performance tracking
+
+**Technologies:** React, Python, FastAPI, PostgreSQL
+
+---
+
+### 🤖 3. InterviewForge AI – AI Interview Preparation
+
+An AI-powered interview preparation application designed to help students improve their technical interview skills.
+
+**Key Features:**
+- AI-assisted interview preparation
+- Technical interview practice
+- Interview question generation
+- Personalized preparation experience
+
+**Technologies:** React, Python, FastAPI, Gemini AI
+
+---
+
+### 🎂 4. Birthday Website – Interactive Celebration Website
+
+A creative website built to make birthday celebrations more memorable through interactive web experiences.
+
+**Key Features:**
+- Personalized birthday greetings
+- Interactive web design
+- Creative animations and styling
+- Responsive user interface
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 🌐 5. Personal Portfolio Website
+
+A personal portfolio showcasing my technical skills, projects, achievements and developer journey.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [Visit My Portfolio](https://varuntechpor.netlify.app/)
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunkumar72195&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=varunkumar72195&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar72195&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=varunkumar72195&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunkumar72195&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/varunkumar72195/varunkumar72195/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My GitHub Profile! ⭐
+
+**💙 Keep Learning | Keep Building | Keep Growing**
+
+![Profile Views](https://komarev.com/ghpvc/?username=varunkumar72195&color=00F7FF&style=for-the-badge)
+
+</div>
