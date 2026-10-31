@@ -6,35 +6,7 @@
 
 </div>
 
----
 
-# 💫 About Me
-
-🎓 Final Year B.Tech Student at **Newton's Institute of Engineering**
-
-🐍 **Python Developer** passionate about backend development
-
-💻 Aspiring **Python Full Stack Developer**
-
-⚙️ Building applications using **Python, FastAPI & PostgreSQL**
-
-🎨 Developing frontend interfaces using **HTML, CSS, JavaScript & React**
-
-🌱 Currently Learning **DSA, Advanced Python, FastAPI & React**
-
-🚀 Passionate about building real-world applications and solving problems
-
-🏆 NPTEL Human Computer Interaction – Gold Score
-
-☁️ Azure DevOps Certified
-
-👨‍💻 Leading my college technical club **NXGen Explorers**
-
-🎯 Goal: Become a Software Engineer at a reputed product-based company
-
-⚡ Fun Fact: *I love turning ideas into code.*
-
----
 
 # 🌐 Connect With Me
 
@@ -93,7 +65,35 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 
 </div>
+---
 
+# 💫 About Me
+
+🎓 Final Year B.Tech Student at **Newton's Institute of Engineering**
+
+🐍 **Python Developer** passionate about backend development
+
+💻 Aspiring **Python Full Stack Developer**
+
+⚙️ Building applications using **Python, FastAPI & PostgreSQL**
+
+🎨 Developing frontend interfaces using **HTML, CSS, JavaScript & React**
+
+🌱 Currently Learning **DSA, Advanced Python, FastAPI & React**
+
+🚀 Passionate about building real-world applications and solving problems
+
+🏆 NPTEL Human Computer Interaction – Gold Score
+
+☁️ Azure DevOps Certified
+
+👨‍💻 Leading my college technical club **NXGen Explorers**
+
+🎯 Goal: Become a Software Engineer at a reputed product-based company
+
+⚡ Fun Fact: *I love turning ideas into code.*
+
+---
 ---
 
 # 🚀 Featured Projects
