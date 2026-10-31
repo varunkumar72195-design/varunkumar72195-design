@@ -171,11 +171,11 @@ A personal portfolio showcasing my technical skills, projects, achievements and 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunkumar72195&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunkumar72195-design&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=varunkumar72195&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=varunkumar72195-design&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar72195&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar72195-design&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -185,7 +185,7 @@ A personal portfolio showcasing my technical skills, projects, achievements and 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=varunkumar72195&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=varunkumar72195-design&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -195,7 +195,7 @@ A personal portfolio showcasing my technical skills, projects, achievements and 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunkumar72195&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunkumar72195-design&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -205,12 +205,9 @@ A personal portfolio showcasing my technical skills, projects, achievements and 
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/varunkumar72195/varunkumar72195/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/varunkumar72195-design/varunkumar72195-design/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
 # 💡 Developer Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
